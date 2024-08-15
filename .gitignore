@@ -1,0 +1,94 @@
+# macOS 관련 파일
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Folder settings
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+node_modules/
+bower_components/
+jspm_packages/
+
+# Temp directories
+tmp/
+temp/
+logs/
+*.log
+
+# Package files
+*.zip
+*.tar.gz
+
+# Adobe CEP specific
+*.jsxbin
+*.zxp
+
+# Output directories (compiled files)
+dist/
+build/
+out/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.swn
+*.bak
+*.pid
+
+# Coverage reports
+coverage/
+*.lcov
+
+# TypeScript specific
+*.tsbuildinfo
+*.d.ts
+
+# IDE specific
+*.iml
+*.ipr
+*.iws
+
+# Adobe specific workspace files
+*.prproj
+*.aegraphic
+*.aegraphicx
+
+# Environment files
+.env
+# .env.local
+# .env.development.local
+# .env.test.local
+# .env.production.local
+
+# Miscellaneous
+Thumbs.db
+*.DS_Store
+*.log
+*.csv
+
+# Ignore minified files
+# *.min.js
+# *.min.css
+
+# Ignore archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.bak
+*.backup
